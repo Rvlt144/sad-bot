@@ -5,7 +5,7 @@ BOT WHATSAPP TERMUX ONLY BY ReVolt
 Siapin alat dan bahannya.
 ```bash
 > niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr cok)
 > jaringan internet kenceng,kuota+
 > penyimpanan yang memadai
 > aplikasi whatsapp
@@ -18,7 +18,7 @@ Siapin alat dan bahannya.
 $ termux-setup-storage
 $ pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs && pkg install mc
 $ apt update && apt upgrade
-$ git clone https://github.com/Rvlt144/jem-bot
+$ git clone https://github.com/Rvlt144/sad-bot
 $ cd jem-bot
 $ npm i -g cwebp && npm i -g ytdl && npm i && npm i got && node index js
 
